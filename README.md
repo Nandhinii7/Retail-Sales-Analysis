@@ -1,6 +1,6 @@
 # 🛍️ Retail Sales Analysis
 
-A professional data analysis project using synthetic retail sales and customer demographics data to uncover actionable business insights for improved customer experience and revenue strategies.
+Analyzing synthetic retail sales data to uncover patterns that drive smarter customer engagement and revenue growth.
 
 ---
 
