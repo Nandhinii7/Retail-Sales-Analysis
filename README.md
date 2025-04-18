@@ -12,6 +12,10 @@ This project aims to perform comprehensive **Exploratory Data Analysis (EDA)** o
 
 ## 💡 Business Insights Delivered
 
+
+- **Purchase Behavior Patterns:**  
+  Analyzed purchasing habits across segments to enhance personalized recommendations and loyalty programs.
+  
 - **Customer Segmentation:**  
   Identified age and gender groups contributing most to revenue to tailor marketing efforts.
 
@@ -21,8 +25,6 @@ This project aims to perform comprehensive **Exploratory Data Analysis (EDA)** o
 - **Temporal Sales Trends:**  
   Uncovered high-traffic periods, aiding in campaign planning and staffing decisions.
 
-- **Purchase Behavior Patterns:**  
-  Analyzed purchasing habits across segments to enhance personalized recommendations and loyalty programs.
 
 ---
 
